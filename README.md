@@ -56,11 +56,12 @@ Com os pré-requisitos atendidos, siga os passos a seguir:
 
 ![Compile](assets/compile_button.png)
 
-3. Abra o arquivo `diagram.json` e clique no botão de play para iniciar a simulação:
+3. Conecte sua placa BitDogLab via USB apertando o botão bootsel:
 
-![Wokwi Simulator](assets/wokwi_simulator.PNG)
+![Placa_BitDogLab](assets/placa.png)
 
-4. Quando a simulação iniciar, pressione os botões do teclado matricial para testar o firmware.
+4. Clique em "Run", à direita da barra de status e aguarde o processo:
+![Run](assets/run_button.PNG)
 
 ## 6. 👥 Colaboradores do projeto
 
