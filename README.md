@@ -18,7 +18,7 @@ Este é um firmware desenvolvido em C para o Raspberry Pi Pico, que realiza a le
 
 Uma demonstração do projeto em funcionamento pode ser assistida no link abaixo:
 
-[https://drive.google.com/file/d/1oXZ8R_b_CW-el2664VAe2uFjyPtEEV4m/view?usp=drive_link]([url](https://drive.google.com/file/d/1oXZ8R_b_CW-el2664VAe2uFjyPtEEV4m/view?usp=drive_link))
+https://drive.google.com/file/d/1oXZ8R_b_CW-el2664VAe2uFjyPtEEV4m/view?usp=drive_link
 
 ## 3. 🔎 Funcionalidades disponíveis
 
